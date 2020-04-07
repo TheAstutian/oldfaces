@@ -1,5 +1,6 @@
 {
   "name": "oldfaces",
+  "homepage": "http://theastutian.github.io/faces",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
