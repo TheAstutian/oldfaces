@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/oldfaces/static/css/main.b7db08c1.chunk.css",
+    "main.js": "/oldfaces/static/js/main.74e02720.chunk.js",
+    "main.js.map": "/oldfaces/static/js/main.74e02720.chunk.js.map",
+    "runtime-main.js": "/oldfaces/static/js/runtime-main.4849f811.js",
+    "runtime-main.js.map": "/oldfaces/static/js/runtime-main.4849f811.js.map",
+    "static/css/2.07548e1c.chunk.css": "/oldfaces/static/css/2.07548e1c.chunk.css",
+    "static/js/2.0396895a.chunk.js": "/oldfaces/static/js/2.0396895a.chunk.js",
+    "static/js/2.0396895a.chunk.js.map": "/oldfaces/static/js/2.0396895a.chunk.js.map",
+    "index.html": "/oldfaces/index.html",
+    "precache-manifest.4721a8a1748a6ef92830856e0355b096.js": "/oldfaces/precache-manifest.4721a8a1748a6ef92830856e0355b096.js",
+    "service-worker.js": "/oldfaces/service-worker.js",
+    "static/css/2.07548e1c.chunk.css.map": "/oldfaces/static/css/2.07548e1c.chunk.css.map",
+    "static/css/main.b7db08c1.chunk.css.map": "/oldfaces/static/css/main.b7db08c1.chunk.css.map",
+    "static/js/2.0396895a.chunk.js.LICENSE.txt": "/oldfaces/static/js/2.0396895a.chunk.js.LICENSE.txt",
+    "static/media/face.css": "/oldfaces/static/media/Chococooky.85d1a60b.woff",
+    "static/media/App.css": "/oldfaces/static/media/RandomXBold-ZVEdB.af0ec415.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4849f811.js",
+    "static/css/2.07548e1c.chunk.css",
+    "static/js/2.0396895a.chunk.js",
+    "static/css/main.b7db08c1.chunk.css",
+    "static/js/main.74e02720.chunk.js"
+  ]
+}
