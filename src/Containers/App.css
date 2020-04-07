@@ -1,0 +1,14 @@
+
+@font-face {
+    font-family: 'Random X Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Random X Bold'), url('./RandomXBold-ZVEdB.otf') format('otf');
+}
+
+
+h1 {
+  font-family: 'Random X Bold';
+  padding: 20px;
+  font-weight: 20;
+}
